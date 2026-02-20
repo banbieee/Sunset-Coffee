@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.menu{
+    background-color: #e59d5c;
+    padding: 100px;
+    text-align: center;
+}
+.menu h2{
+    font-size: 33px;
+    margin-bottom: 20px;
+}
+.menu table{
+    width: 80%;
+    max-width: 500px;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    font-weight: 500;
+}
+.menu td{
+    padding: 20px;
+    border: 3px solid #f3d3b8;
+}
